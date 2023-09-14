@@ -1,7 +1,7 @@
 # The given array has a series of numbers.
 # Your task is print each number
 
-numbers = [0, 1, 5, 7, 18]
+numbers = [23, 19, 5, 7, 18, 25, 2]
 
 #Write your cocde below this line
 
