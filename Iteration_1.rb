@@ -3,7 +3,7 @@
 
 numbers = [23, 19, 5, 7, 18, 25, 2]
 
-#Write your cocde below this line
+#Write your code below this line
 
 numbers.each do |number|
     puts number
